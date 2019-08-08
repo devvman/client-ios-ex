@@ -1,6 +1,0 @@
-version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
-options: "13e5b6b199d3234f9b83cd0c64dc3e00"
-build_time: [1565298022, 861198000]
-inputs:
-  "/Users/iteamadmin/Documents/Core/Private/client-ios-ex/client-ios-ex/ViewController.swift": [9223372036, 854775807]
-  "/Users/iteamadmin/Documents/Core/Private/client-ios-ex/client-ios-ex/AppDelegate.swift": [9223372036, 854775807]
