@@ -4,4 +4,7 @@
 # It tells Heroku how to launch our site
 
 require "jekyll-auth"
+jekyll_auth:
+    ssl: true
+destination: ./docs
 run JekyllAuth.site
