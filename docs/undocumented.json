@@ -1,0 +1,40 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/iteamadmin/Documents/Core/Private/client-ios-ex/client-ios-ex/AppDelegate.swift",
+      "line": 12,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/iteamadmin/Documents/Core/Private/client-ios-ex/client-ios-ex/AppDelegate.swift",
+      "line": 14,
+      "symbol": "AppDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/iteamadmin/Documents/Core/Private/client-ios-ex/client-ios-ex/AppDelegate.swift",
+      "line": 33,
+      "symbol": "AppDelegate.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/iteamadmin/Documents/Core/Private/client-ios-ex/client-ios-ex/AppDelegate.swift",
+      "line": 37,
+      "symbol": "AppDelegate.applicationDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/iteamadmin/Documents/Core/Private/client-ios-ex/client-ios-ex/AppDelegate.swift",
+      "line": 41,
+      "symbol": "AppDelegate.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/iteamadmin/Documents/Core/Private/client-ios-ex"
+}
